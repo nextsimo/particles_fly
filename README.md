@@ -1,7 +1,7 @@
 # Particles JS for Flutter
 [![pub package](https://img.shields.io/pub/v/particles_fly.svg)](https://pub.dartlang.org/packages/particles_fly)
 
-A Flutter Package for Display Particles like the lib web Particles Js.
+A Flutter Package for Display Particles like the web lib Particles Js.
 
 ## Getting Started
 
