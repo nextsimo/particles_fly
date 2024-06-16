@@ -1,10 +1,10 @@
 name: particles_fly
 description: A package that provides an easy way to add particles js in flutter project.
-version: 0.0.8
+version: 0.0.9
 homepage: https://github.com/mevos19/particles_fly
 
 environment:
-  sdk: '>=2.19.0 <4.0.0'
+  sdk: ">=2.19.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
+  flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
-flutter:
+flutter: null

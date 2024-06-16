@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 class ParticlesFly extends StatefulWidget {
   /// A Flutter package to create a particle animation like the one on the website https://vincentgarreau.com/particles.js/
   const ParticlesFly({
-    Key? key,
+    super.key,
     required this.height,
     required this.width,
     this.lineStrokeWidth = 0.5,
@@ -32,7 +32,7 @@ class ParticlesFly extends StatefulWidget {
     this.hoverRadius = 80,
     this.connectDots = false,
     this.lineColor = const Color.fromARGB(90, 155, 39, 176),
-  }) : super(key: key);
+  });
 
   /// The radius of the circle from which the particles move away when the mouse is hovered over them
   final double awayRadius;
