@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/41967952/220877516-51ed18d8-d519-464c-
 
 ```yaml
 dependencies:
-  particles_fly: ^0.0.8
+  particles_fly: ^0.0.9
 ```
 
 ### Import the package
